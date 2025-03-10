@@ -1,5 +1,4 @@
-#Problema 2
-#subpunctul 1
+
 library(shiny)  # Importăm pachetul Shiny pentru crearea aplicației web 
 
 library(ggplot2)  # Importăm ggplot2 pentru generarea graficelor 
@@ -96,7 +95,7 @@ shinyApp(ui = ui, server = server)
 
 
 
-#subpunctul 2
+#
 
 library(shiny)  # Importăm pachetul Shiny pentru crearea aplicației web 
 
@@ -204,7 +203,7 @@ shinyApp(ui = ui, server = server)
 
 
 
-#subpunctul 3
+#
 library(shiny)  # Importăm pachetul Shiny pentru crearea aplicației web 
 
 library(ggplot2)  # Importăm ggplot2 pentru generarea graficelor 
@@ -305,7 +304,7 @@ shinyApp(ui = ui, server = server)
 
 
 
-#subpunctul 4
+#
 library(shiny)  # Importăm pachetul Shiny pentru crearea aplicației web 
 
 library(ggplot2)  # Importăm ggplot2 pentru generarea graficelor 
@@ -409,7 +408,7 @@ shinyApp(ui = ui, server = server)
 
 
 
-#subpunctul 5
+#
 library(shiny)  # Importăm pachetul Shiny pentru crearea aplicației web 
 
 library(ggplot2)  # Importăm ggplot2 pentru generarea graficelor 
